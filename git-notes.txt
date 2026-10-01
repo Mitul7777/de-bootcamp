@@ -1,2 +1,3 @@
 learning Git. My first tracked file.
 It's my first learning lession about git. It"s a pleasure to gain knowledge in it.
+testing push
