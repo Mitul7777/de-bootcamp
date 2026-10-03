@@ -25,7 +25,7 @@ total_price_fixed = quantity_fixed * unit_price
 print("Fixed total:", total_price_fixed)
 discount_percent = "10"
 dis_amnt = int(discount_percent)
-discount_amount =( total_price_fixed*dis_amnt)//100
+discount_amount =( total_price_fixed*dis_amnt)/100
 print("Total_discount:", discount_amount)
 Final_purchase_amount=(total_price_fixed-discount_amount)
 print("Final_price :",Final_purchase_amount)
