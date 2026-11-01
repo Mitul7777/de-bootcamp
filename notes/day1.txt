@@ -1,0 +1,18 @@
+pwd                                   # "print working directory" - shows where you currently are
+
+ls                                    # "list" - shows files/folders in current location
+
+ls -la                                # shows hidden files too, with details
+
+cd Documents                          # "change directory" - move into a folder
+
+cd ..                                 # move UP one level
+
+mkdir my_first_folder                 # make a new directory
+
+touch notes.txt                       # create an empty file
+
+mv notes.txt my_first_folder/         # move a file
+
+rm my_first_folder/notes.txt          # delete a file (careful — no trash bin!)
+ ------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+order_id,customer,quantity,unit_price,is_prime_member
+ORD-2001,Priya Shah,3,499.99,true
+ORD-2002,Rahul Mehta,0,1200.00,FALSE
+ORD-2003,Ayesha Khan,five,89.50,false
+ORD-2004,Abid Ali,6,102.50,TRUE
+ORD-2005,Zara Patel,1,50.00,right
+ORD-2002,Rahul Mehta,0,1200.00,false
+ORD-2002,Rahul Mehta,0,1200.00,false
+ORD-2003,Ayesha Khan,five,89.50,false
+

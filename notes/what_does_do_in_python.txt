@@ -1,0 +1,12 @@
+----------------------------------------WHAT DOES DO IN PYTHON----------------------------------------
+                                        **********************
+                                        **********************
+
+
+
+Key points to notice:
+
+open(...) opens the file. with closes it automatically when the block ends. Forgetting to close files is a classic slow leak in long-running pipelines.
+csv.DictReader turns each row into a dictionary, using the first line as the keys. You already know how to work with a list of dictionaries.
+Look at '3' and 'true': quotes everywhere. All strings.
+** newline="" is the csv module’s recommended setting. It prevents stray blank lines on some systems.

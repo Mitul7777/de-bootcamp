@@ -1,0 +1,3 @@
+day:2     my first data engineering file
+today learning about permisson in terminal and
+this is the 3rd line added manually by the help of in-terminal editor.
